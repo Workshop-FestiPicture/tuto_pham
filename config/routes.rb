@@ -1,4 +1,7 @@
 TestGit::Application.routes.draw do
+  resources :shows
+
+
   root to: 'home#index' 
 
   # The priority is based upon order of creation:
