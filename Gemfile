@@ -26,7 +26,7 @@ gem 'jquery-rails'
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
 # To use Jbuilder templates for JSON
-# gem 'jbuilder'
+gem 'jbuilder'
 
 # Use unicorn as the app server
 # gem 'unicorn'
@@ -37,4 +37,5 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
-gem "twitter-bootstrap-rails"
+gem 'twitter-bootstrap-rails'
+gem 'strong_parameters'
